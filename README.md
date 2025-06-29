@@ -1,1 +1,1 @@
-# VLM_Uc-PrUn_Uncertanity-Quantification-and-Unlearning
+# Uc-PrUn: Uncertainty-calibrated Data Pruning and Unlearning
